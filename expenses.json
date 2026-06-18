@@ -1,0 +1,16 @@
+[
+  {
+    "id": "25cbafe2",
+    "title": "lunch",
+    "amount": 200,
+    "category": "Food",
+    "date": "2026-06-18 17:18"
+  },
+  {
+    "id": "f09e6987",
+    "title": "gym",
+    "amount": 500,
+    "category": "Health",
+    "date": "2026-06-18 17:19"
+  }
+]
