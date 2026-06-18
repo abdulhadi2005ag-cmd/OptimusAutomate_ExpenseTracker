@@ -1,6 +1,6 @@
 # OptimusAutomate_ExpenseTracker
 
-A command-line expense tracker built with Python. Manage your daily expenses right from the terminal.
+A command line expense tracker built with Python. Manage your daily expenses right from the terminal.
 
 ## Features
 - Add expenses with title, amount, and category
@@ -12,7 +12,7 @@ A command-line expense tracker built with Python. Manage your daily expenses rig
 ## Project Structure
 OptimusAutomate_ExpenseTracker/
 
-├── expense_tracker.py  # main file to run
+├── expensetracker.py  # main file to run
 
 ├── expenses.py         # core logic
 
@@ -22,7 +22,7 @@ OptimusAutomate_ExpenseTracker/
 
 ## How to Run
 ```bash
-python expense_tracker.py
+python expensetracker.py
 ```
 
 ## Categories
@@ -35,4 +35,4 @@ Food, Transport, Shopping, Bills, Health, Other
 - datetime for timestamps
 
 ## Author
-Abdul Hadi — 2nd Year Electrical Engineering Student at FAST-NUCES Lahore
+Abdul Hadi , 2nd Year Electrical Engineering Student at FAST NUCES Lahore
